@@ -1,0 +1,15 @@
+{
+  "/finder/js/warehouse.js": "/finder/js/warehouse.js",
+  "/finder/js/create-quote.js": "/finder/js/create-quote.js",
+  "/client/js/quote.js": "/client/js/quote.js",
+  "/frontend/js/schedule.js": "/frontend/js/schedule.js",
+  "/mix.js": "/mix.js",
+  "/admin/css/app.css": "/admin/css/app.css",
+  "/admin/css/abs.css": "/admin/css/abs.css",
+  "/frontend/js/profile.js": "/frontend/js/profile.js",
+  "/frontend/css/custom.css": "/frontend/css/custom.css",
+  "/frontend/js/search-warehouse.js": "/frontend/js/search-warehouse.js",
+  "/frontend/js/list-warehouse.js": "/frontend/js/list-warehouse.js",
+  "/finder/js/edit-quote.js": "/finder/js/edit-quote.js",
+  "/frontend/js/warehouse-list.js": "/frontend/js/warehouse-list.js"
+}

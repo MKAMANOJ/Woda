@@ -1,0 +1,83 @@
+h1, h2, h3, h4, h5, h6 {
+}
+h2 {
+  font-size: 40px;
+  line-height: 48px;
+}
+h3 {
+  font-size: 30px;
+  line-height: 1.5;
+}
+h4 {
+  font-size: 20px;
+  line-height: 1.5;
+}
+h5 {
+  font-size: 15px;
+  line-height: 1.5;
+}
+ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+.cms-contents {
+  background: $white;
+  ul {
+    li {
+      list-style: disc;
+      margin-left: 20px;
+    }
+    &.no-list-style, &.carousel-inner {
+      li {
+        list-style: none;
+        margin-left: 0;
+      }
+    }
+  }
+}
+a {
+  font-size: 15px;
+  &:hover {
+
+  }
+}
+p {
+  font-size: 15px;
+  margin-bottom: 0;
+}
+sub {
+  font-size: 15px;
+}
+table {
+  &.table {
+    &.table-borderless {
+      td, tr, th {
+        border: none;
+      }
+    }
+    &.table-side-border {
+      td {
+        border-top: none;
+        border-right: 1px solid $input-border;
+        &:last-child{
+          border-right: none;
+        }
+      }
+    }
+    &.table-blue{
+      tr {
+        th {
+          background: $blue;
+          color: $white;
+          border: 1px solid $green;
+          text-align: center;
+        }
+        td {
+          border: 1px solid $green;
+          text-align: center;
+        }
+      }
+    }
+  }
+}

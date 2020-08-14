@@ -1,0 +1,11 @@
+.btn-primary {
+  background: $blue;
+  border-radius: 0;
+  border: none;
+  height: 50px;
+  &:hover, &:focus {
+    background: $blue;
+    outline: none;
+    border: none;
+  }
+}
